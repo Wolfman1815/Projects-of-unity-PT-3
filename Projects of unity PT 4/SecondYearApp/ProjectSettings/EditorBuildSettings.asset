@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/NMainMenu.unity
+    guid: b561ee023c25a6044ab810cfa491ad8e
+  - enabled: 1
+    path: Assets/MainScreen.unity
+    guid: 386986837481a24489cf989c53a748a9
+  - enabled: 0
+    path: Assets/Kyler/CopyofCT 3.unity
+    guid: 446b70de66b8c4e468b108073567c048
+  - enabled: 0
+    path: Assets/Kyler/CopyofCT 1.unity
+    guid: ebb2276df7174bd4185ac3542b18ea56
+  - enabled: 0
+    path: Assets/Carlos/TestingOP.unity
+    guid: 564e0542ff36e6d43993d69cfe3b79b4
+  - enabled: 0
+    path: Assets/Evan/charecter tracking 1.unity
+    guid: 7b0b424c72689d942aefb30278e375fd
+  - enabled: 0
+    path: Assets/Carlos/Home.unity
+    guid: ce89b8bb72d8cf543805547e9e7949b3
+  - enabled: 0
+    path: Assets/Carlos/Old/Gaem.unity
+    guid: 31c9c278d8d0f534fa35bcdec489b928
+  - enabled: 0
+    path: Assets/Tyler/Game.unity
+    guid: 33d58993fe15305469e6990c814ff6f1
+  - enabled: 0
+    path: Assets/Tyler/MainMenu.unity
+    guid: e5ae18942cfd8e04c9ab269b541df4a8
+  - enabled: 0
+    path: Assets/Seth/MyScene.unity
+    guid: 88a758efb4462264da8694516f405c5e
+  - enabled: 0
+    path: Assets/Seth/MyScene.unity
+    guid: 88a758efb4462264da8694516f405c5e
+  - enabled: 0
+    path: Assets/Carlos/GPSgo.unity
+    guid: 0f93b72006f22924ea11e965643fc80f
+  - enabled: 0
+    path: Assets/Damon/DamonsScenes/DamonsPlayPlace.unity
+    guid: d84815eda7883404c9122a4901619132
+  - enabled: 0
+    path: Assets/Kyler/TEst.unity
+    guid: c4a8f1e4667046b4faf2c6acd46302e5
+  - enabled: 0
+    path: Assets/Evan/test.unity
+    guid: 9a921d12c0f7db44bb89eb19b52cda23
+  - enabled: 0
+    path: Assets/Carlos/Old/charecter tracking.unity
+    guid: aa5fcd14559899f48a8cf1723ef39b81
+  - enabled: 0
+    path: Assets/Damon/Multiplayering/Scenes/Chatting.unity
+    guid: 8ed8d3fb1e3a82047a36182ff89cd612
+  - enabled: 0
+    path: Assets/Kyler/CopyofCT 4.unity
+    guid: e299570af21f9a946894917e70b4a47e
